@@ -1,9 +1,9 @@
 {
-    "name": "YOUR NAME HERE",
-    "description": "YOUR DESCRIPTION HERE",
+    "name": "Josh Lowden",
+    "description": "Syllabus to CSV",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
-      "default_popup": "index.html",
-    },
+      "default_popup": "index.html"
+    }
 }
