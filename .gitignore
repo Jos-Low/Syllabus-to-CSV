@@ -1,2 +1,4 @@
 hidden.js
 *.log
+
+node_modules/
