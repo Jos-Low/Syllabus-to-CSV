@@ -1,0 +1,1 @@
+A Chrome extension that lets you upload a syllabus PDF and automatically converts it into a clean, downloadable CSV of assignments. Powered by Mistral OCR for text extraction and Google Gemini for assignment parsing.
