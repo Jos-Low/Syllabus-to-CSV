@@ -20,7 +20,7 @@ JavaScript (ES6) – Core extension functionality and DOM manipulation.
 
 HTML5 & CSS3 – Popup UI and styling for the Chrome extension.
 
-APIs –
+APIs – Mistral & Gemini 
 
 🚀 Installation & Usage
 
